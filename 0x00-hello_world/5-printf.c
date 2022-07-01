@@ -1,9 +1,7 @@
 #include <stdio.h>
-
-/**
+/*
  * main - prints the phrase with proper grammar,
- * but the outcome is a piece of art,
- * Return: it bascically returns o if your code is correct 
+ * Return: 0 it bascically returns o if your code is correct 
  */
 int main(void)
 {
