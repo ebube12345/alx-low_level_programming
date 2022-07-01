@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - this my main it basically checks if your grammar is correct
+ * main - prints the phrase with proper grammar, but the outcome is a piece of art,
  * Return: it bascically returns o if your code is correct 
  */
 
